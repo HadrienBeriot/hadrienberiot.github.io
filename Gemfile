@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    #gem 'mini_racer' # disabled for now - check https://lightrun.com/answers/alshedivat-al-folio-libv8-node-161000-installation-error
     gem 'unicode_utils'
     gem 'webrick'
 end
